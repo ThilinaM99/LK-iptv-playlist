@@ -45,10 +45,10 @@ https://stream.asiatvnet.com/1/live/master.m3u8
 # Auto Channels
 #######################
 
-#EXTINF:-1 tvg-id="MotorTrend.us@SD" tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/hKDccCL.png" group-title="Auto",Motor Trend
+#EXTINF:-1 tvg-id="MotorTrend.us@SD" tvg-name="Motor Trend" tvg-logo="https://watch.motortrend.com/mtgo-logo.png" group-title="Auto",Motor Trend
 http://104.255.88.155/motortrend/index.m3u8
 
-#EXTINF:-1 tvg-id="PowerNationTV.us@SD" tvg-name="PowerNation" tvg-logo="https://i.imgur.com/jguTO8E.png" group-title="Auto",PowerNation (1080p)
+#EXTINF:-1 tvg-id="PowerNationTV.us@SD" tvg-name="PowerNation" tvg-logo="https://pbs.twimg.com/profile_images/1676575827238977536/ZRE5kZUp_400x400.jpg" group-title="Auto",PowerNation (1080p)
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
 
 
@@ -62,7 +62,7 @@ https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@East" tvg-name="National Geographic Wild East" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/058.png" group-title="Documentary",National Geographic Wild East
 https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
-#EXTINF:-1 tvg-name="BBC Earth Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/BBC_Earth_logo.svg" group-title="Documentary",BBC Earth Asia (720p)
+#EXTINF:-1 tvg-name="BBC Earth Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/250px-BBC_Earth.svg.png" group-title="Documentary",BBC Earth Asia (720p)
 https://cdn4.skygo.mn/live/disk1/BBC_earth/HLSv3-FTA/BBC_earth.m3u8
 
 
