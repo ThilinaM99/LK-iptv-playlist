@@ -212,9 +212,6 @@ https://streams2.sofast.tv/ptnr-lg/title-Space_Series_LG/v1/manifest/611d79b11b7
 #EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HD_Television.svg/512px-HD_Television.svg.png" group-title="Documentary",Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia-avc1_3000000=67-mp4a_256000_eng=12.m3u8
 
-#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HD_Television.svg/512px-HD_Television.svg.png" group-title="Documentary",Love Nature 4K
-https://d2qmwprplnkhvr.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-k6dzbuqjplph1/0063d90b-5bd3-4bac-a3ed-6290db25c539/3.m3u8
-
 #EXTINF:-1 tvg-name="Wild Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HD_Television.svg/512px-HD_Television.svg.png" group-title="Documentary",Wild Planet
 https://d1h8whhtg5u7om.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u3ceovu5thv6/45729f3d-65d9-4490-adf2-994d7cfca9cb/3.m3u8
 
