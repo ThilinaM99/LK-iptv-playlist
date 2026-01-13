@@ -200,6 +200,9 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 # Documentary / Nature
 #######################
 
+#EXTINF:-1 tvg-name="Animal Planet " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/250px-2018_Animal_Planet_logo.svg.png" group-title="Documentary",Animal Planet 
+http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
+
 #EXTINF:-1 tvg-name="Adventure Earth" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HD_Television.svg/512px-HD_Television.svg.png" group-title="Documentary",Adventure Earth
 https://autentic-adventure-earth-1-au.lg.wurl.tv/3000.m3u8
 
