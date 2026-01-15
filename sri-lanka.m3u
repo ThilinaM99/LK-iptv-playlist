@@ -28,10 +28,7 @@ https://charana.rumex.lk/live/koGURgmHSgCxLVmU/576p.m3u8
 #EXTINF:-1 tvg-name="Siyatha TV" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/015.png" group-title="Sri Lanka",Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv_src/index.m3u8
 
-#EXTINF:-1 tvg-name="Swarnavahini" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png" group-title="Sri Lanka",Swarnavahini
-https://swarnavahini.rumex.lk/live/OplTHNHgJtgwGPen/576p.m3u8
-
-#EXTINF:-1 tvg-name="Swarnavahini HD" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png" group-title="Sri Lanka",Swarnavahini HD
+#EXTINF:-1 tvg-name="Swarnavahini " tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/007.png" group-title="Sri Lanka",Swarnavahini HD
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="NDTV Lanka Full HD" tvg-logo="https://www.ndtvlanka.lk/wp-content/uploads/2022/10/logo-ndtv.png" group-title="Sri Lanka",NDTV Lanka Full HD
@@ -80,12 +77,6 @@ https://tvpass.org/live/NationalGeographicEast/hd
 
 #EXTINF:-1 tvg-id="NationalGeographic.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic Full HD
-http://38.183.182.166:8000/play/a0vd/index.m3u8
-
-#EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" group-title="Documentary",National Geographic America
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@HDEast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="Documentary",National Geographic Wild HD
 https://tvpass.org/live/NationalGeographicWildEast/hd
@@ -144,7 +135,7 @@ https://9c8418ea80924443bf6a437d9be28be7.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 tvg-id="MilitaryHistory.us@SD" tvg-logo="https://i.imgur.com/S1SnpoA.png" group-title="Documentary",Military History
 https://fl1.moveonjoy.com/Military_History/index.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVAnimals.us@Germany" tvg-logo="https://i.imgur.com/N00seOn.png" group-title="Documentary",Pluto TV Animals
+#EXTINF:-1 tvg-id="PlutoTVAnimals.us@Germany" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/500px-Pluto_TV_logo_2024.svg.png" group-title="Documentary",Pluto TV Animals
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d767ae7b456c8cf265ce922/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae5268-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=f4297955-3ff8-4299-b8e4-ca974cec3c7a
 
 #EXTINF:-1 tvg-id="Reelz.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/512px-Reelz.svg.png" group-title="Documentary",Reelz HD
@@ -221,7 +212,7 @@ https://d3f4oii5n0oeqi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae04
 #EXTINF:-1 tvg-name="Sony One Thriller TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HD_Television.svg/512px-HD_Television.svg.png" group-title="Movies",Sony One Thriller TV
 https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/5df0e179-5b63-41d0-8b1b-2f1ba414dc69/1.m3u8
 
-#EXTINF:-1 tvg-name="Xumo Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HD_Television.svg/512px-HD_Television.svg.png" group-title="Movies",Xumo Movies
+#EXTINF:-1 tvg-name="Xumo Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/XUMO-logo-2022.svg/250px-XUMO-logo-2022.svg.png" group-title="Movies",Xumo Movies
 https://d3fmqi91qduj7.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_tcl-2/4c60f67a-c2eb-4d4d-8729-e018328eb03a/5.m3u8
 
 #EXTINF:-1 tvg-name="WB TV Paranormal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HD_Television.svg/512px-HD_Television.svg.png" group-title="Movies",WB TV Paranormal
@@ -254,11 +245,15 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="Movies",AMC East
 https://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVHorror.us@US" tvg-logo="https://i.imgur.com/k6qttca.png" group-title="Movies",Pluto TV Horror
+#EXTINF:-1 tvg-id="PlutoTVHorror.us@US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Pluto_TV_logo_2024.svg/500px-Pluto_TV_logo_2024.svg.png" group-title="Movies",Pluto TV Horror
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b1450-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3f8b9bca-2807-48aa-a7cc-8513d68f8d92
 
 #EXTINF:-1 tvg-id="SamsungMovieSphere.us@SD" tvg-logo="" group-title="Movies",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Game ON" tvg-logo="" group-title="Gaming",Game ON
+https://amg15905-k20-amg15905c5-kogan-au-10740.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg15905-mediacan-gameon-koganau/cb543d19736c648c92d43e64d5ef45a4f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7251db80148b61299bce8c37683f03409a5e5afba358b1ebe70e4dda3da4b61855c32d44b39f43c8821ca6d28509cb5e8f74f314989aa282d642d786f33793748aef884a581faaa73bfafa54b8dd9b79368e745a297437c790e335caa1e43d277debf6cac50a97cf4f9b57e8533eb507995f8b228f21ce63c5b71cf2e8d35725306693ff8abeab34bad9810122cf7fedc282a3b3526f90f75b4b4ec76ad932242a95c70675eecc3899ac2a89b868526d8ec105d3aabb8debbf9a59dc0bfe87a5c873121523330b880bf6c12dc37f8931e8ef0331504873a8987ecd92960b633501d5d61e9c38338df6a7cf9f0232c1655b7ded63d2544c2cef3c7e73e828b6cb683fc77644d57b6dbb6b348643eeb163a0f48cab556dc7abad28c866e1b105c5e542f83d4e3e2c87b27d0f0b1c079384002a3f76c449e1a9bac27f1b0fe1f28db3806431093d18451fc985c3758885d4260d1ca20270339471b819c77d0fe915d825f6e808b2ec934d111f611264/163/1280x720_2657019/index.m3u8
+
 
 
 #######################
@@ -276,8 +271,8 @@ https://cc-ii7599ywyixac.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73d
 # Lifestyle / Food
 #######################
 
-#EXTINF:-1 tvg-name="Gusto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HD_Television.svg/512px-HD_Television.svg.png" group-title="Lifestyle",Gusto TV
+#EXTINF:-1 tvg-name="Gusto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Gusto_logo.svg/250px-Gusto_logo.svg.png" group-title="Lifestyle",Gusto TV
 https://fc4eff86.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1pbl9HdXN0b1RWX0hMUw/db518c4a-b41d-4e0e-be02-51d57f91ca29/4.m3u8
 
-#EXTINF:-1 tvg-name="Xumo Free Travel & Lifestyle TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/HD_Television.svg/512px-HD_Television.svg.png" group-title="Lifestyle",Xumo Free Travel & Lifestyle TV
+#EXTINF:-1 tvg-name="Xumo Free Travel & Lifestyle TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/XUMO-logo-2022.svg/250px-XUMO-logo-2022.svg.png" group-title="Lifestyle",Xumo Free Travel & Lifestyle TV
 https://dbrb49pjoymg4.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a3906158-5dac-4bfe-8002-963c49416e02/5.m3u8
